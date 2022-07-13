@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://t.me/abhisheksvlog",
-    "repository": "https://github.com/likucs/levi2",
+    "repository": "https://github.com/CrimzBots/MoviesBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
