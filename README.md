@@ -67,9 +67,9 @@ CAPTION: {file_caption}
 ### Edit For Customise
 
 To Customise Developer Name , Support Channel And Update Channel .
-## Steps -
-Fork This Repo . 
-Go To Code **[Here]()
+#### Steps -
+* Fork This Repo . 
+* Go To Code **[Here](https://github.com/CrimzBots/MoviesBot/blob/edc2beed0e7d110d57d0052957df4ef90bc4b027/plugins/pm_filter.py#L736)**
 
 ### 📤 Deploy
 <p><a href="https://heroku.com/deploy?template=https://github.com/CrimzBots/MoviesBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
