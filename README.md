@@ -31,4 +31,4 @@
 🔹Stickers Id 
 
 ### Screenshot
-<p align="center"><a href="https://github.com/CrimzBots/MoviesBot"><img src="https://telegra.ph/file/dda4ccd28c0379c0d1ab6.jpg"></a></p>
+<p align="center"><a href="https://github.com/CrimzBots/MoviesBot"><img src="https://telegra.ph/file/dcc7381f05a18ef3ba3c1.jpg"></a></p>
