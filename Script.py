@@ -7,7 +7,7 @@ class script(object):
 /help - 𝗀𝖾𝗍 𝗍𝗁𝗂𝗌 𝗁𝖾𝗅𝗉 𝗆𝖾𝗌𝗌𝖺𝗀𝖾
 /about - 𝖺𝖻𝗈𝗎𝗍 𝗆𝖾"""
     ABOUT_TXT = """
-<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href=https://t.me/{}>{}</a>
+<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href='https://t.me/{}'>ᴍᴏᴠɪᴇs ʙᴏᴛ</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/'>ᴘʏᴛʜᴏɴ</a>
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://github.com/pyrogram/pyrogram'>ᴘʏʀᴏɢʀᴀᴍ</a>
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href='http://heroku.com/'>ʜᴇʀᴏᴋᴜ</a>
@@ -68,7 +68,7 @@ Don't Worry Send /shazam"""
  Tʜᴇɴ Mᴀʟʟᴜ Aᴜɴᴛʏ Wɪʟʟ Tᴇxᴛ Yᴏᴜ Sᴏᴍᴇ Jᴏᴋᴇs 😂😂 """
 
     ABOUTME_TXT = """
-<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href=https://t.me/{}>{}</a>
+<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href='https://t.me/{}'>ᴍᴏᴠɪᴇs ʙᴏᴛ</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/'>ᴘʏᴛʜᴏɴ</a>
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://github.com/pyrogram/pyrogram'>ᴘʏʀᴏɢʀᴀᴍ</a>
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href='http://heroku.com/'>ʜᴇʀᴏᴋᴜ</a>
