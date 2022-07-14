@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜', url='https://t.me/+2sQ2BQEEAlhlMjUx')
+                InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url='https://t.me/Crimz_Bots')
             ],
             [
                 InlineKeyboardButton('ʜᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -51,9 +51,9 @@ async def start(client, message):
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ʜᴇʀᴇ🔎', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/iAmLiKu1'),
-            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/+2sQ2BQEEAlhlMjUx')
+            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/Crimz_Support')
             ],[
-            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/cs_cloud'),
+            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/Crimz_Bots'),
             ],[
             InlineKeyboardButton('✗ sᴛᴏᴘ Mᴇ 😴', callback_data='close_data')
         ]]
@@ -107,9 +107,9 @@ async def start(client, message):
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ʜᴇʀᴇ🔎', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/iAmLiKu1'),
-            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/+2sQ2BQEEAlhlMjUx')
+            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/Crimz_Support')
             ],[
-            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/cs_cloud'),
+            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/Crimz_Bots'),
             ],[
             InlineKeyboardButton('✗ sᴛᴏᴘ Mᴇ 😴', callback_data='close_data')
         ]]
@@ -258,11 +258,11 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
         [
-            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/+2sQ2BQEEAlhlMjUx'),
+            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/Crimz_Support'),
             InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/iAmLiKu1')
         ],
         [
-            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/+tkAjvYxAr7VmZjY1')
+            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/Crimz_Support')
         ]
         ]
     await client.send_cached_media(
