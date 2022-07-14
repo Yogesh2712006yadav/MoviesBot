@@ -14,7 +14,7 @@ class script(object):
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Crimz_Bots'>Cʀɪᴍᴢ Bᴏᴛs</a>
 💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://github.com/CrimzBots/MoviesBot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/Crimz_Support'>ᴄʀɪᴍᴢ sᴜᴘᴘᴏʀᴛ</a>
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/ᴄʀɪᴍᴢ ʙᴏᴛs'>ᴍᴄ ᴄʟᴜʙ</a>
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/Crimz_Bots'>ᴍᴄ ᴄʟᴜʙ</a>
 \n\n🔖 𝑸𝒖𝒐𝒕𝒆 : <code>plz bro credit de dena</code></b>"""
     SHAZAM_TXT = """<b>Shazam Music Founder Module</b>
 - <b>help=</b> Helps You To Recognize | Discover A Song
@@ -75,7 +75,7 @@ Don't Worry Send /shazam"""
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Crimz_Bots'>Cʀɪᴍᴢ Bᴏᴛs</a>
 💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://github.com/CrimzBots/MoviesBot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/Crimz_Support'>ᴄʀɪᴍᴢ sᴜᴘᴘᴏʀᴛ</a>
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/ᴄʀɪᴍᴢ ʙᴏᴛs'>ᴍᴄ ᴄʟᴜʙ</a>
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/Crimz_Bots'>ᴍᴄ ᴄʟᴜʙ</a>
 \n\n🔖 𝑸𝒖𝒐𝒕𝒆 : <code>plz bro credit de dena</code></b>"""    
     NEXT_TXT = """Welcome To My Second Help Module"""
 
