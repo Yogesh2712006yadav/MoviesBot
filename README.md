@@ -77,6 +77,6 @@ CAPTION: {file_caption}
 
 <hr>
 ### ⭐ Credits
-* [CrimzBots](https://t.me/Crimz_Bots)
-* [Liku Cs](https://t.me/iAmLiKu1)
+*[CrimzBots](https://t.me/Crimz_Bots)
+*[Liku Cs](https://t.me/iAmLiKu1)
 
