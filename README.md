@@ -32,3 +32,37 @@
 
 ### Screenshot
 <p align="center"><a href="https://github.com/CrimzBots/MoviesBot"><img src="https://telegra.ph/file/dcc7381f05a18ef3ba3c1.jpg"></a></p>
+
+
+
+### Required Variables
+* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
+* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
+* `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+### Optional Variables
+* `PICS`: Telegraph links of images or images links to show in start message. (Multiple images can be used separated by space.)
+* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made. (Separate multiple IDs by space.)
+* `P_TTI_SHOW_OFF`: **(Use True or False)** - Users will be redirected to send /start to Bot PM  if set to True else files will be sent  directly to user's PM.
+* `IMDB`: **(Use True or False)** - To disable or enable imdb data
+* `SINGLE_BUTTON`: **(Use True or False)** - If set True, file name and files size will be shown in a single button instead of two separate button.
+* `CUSTOM_FILE_CAPTION`: Same as IMDB template , you can **customize** the caption for files. (Available keys , **file_name, file_size, file_caption**)
+ Specimen: 
+```
+<b>Join [Here](https://t.me/KoshikKumar17)</b> 
+
+FILE : <code>{file_name}</code> 
+Size : <i>{file_size}</i>
+CAPTION: {file_caption}
+```
+* `AUTH_CHANNEL`: To enable force subscribe. Delete this var if you do not need force subscribe.
+* `UPSTREAM_REPO`: If you want to use a customized fork of [My-EditeD-EvA](https://github.com/CrimzBots/MovieBot), You can fill this config with github url of your fork.
+* `BATCH_FILE_CAPTION`: Same as `CUSTOM_FILE_CAPTION` , use in case you want separate captions for batch files.
+* `PROTECT_CONTENT`: **Use True / False** . If set to true files from bot cannot be forwarded to any chat.
+* `PUBLIC_FILE_STORE`: Use **False** if you don't want your bot to be used as a filestore bot by others.
+* `IMDB_TEMPLATE`: To customise IMDb Data. See code from **[Here](https://github.com/KoshikKumar17/My-EditeD-EvA/blob/V2.0/plugins/pm_filter.py#L1002) to [Here](https://github.com/KoshikKumar17/My-EditeD-EvA/blob/V2.0/plugins/pm_filter.py#L1029)** To know about available keys and Follow below example.
+* `HEROKU_API_KEY`: If you want to check your heroku account's dyno status directly from Bot.
