@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/TechShreyash/AutoAnimeBot"><img src="https://telegra.ph/file/b374af659ae5fae15ff14.jpg"></a></p> 
+<p align="center"><a href="https://github.com/CrimzBots/MoviesBot"><img src="https://telegra.ph/file/dda4ccd28c0379c0d1ab6.jpg"></a></p> 
 
 <h1 align="center"><b>Movies Bot</b></h1>
 <h2 align="center"><b>AutoFilter Bot With Many Of extra Features </b></h4>
