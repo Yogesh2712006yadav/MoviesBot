@@ -6,3 +6,26 @@
 <p align="center" > <img alt="GitHub Forks" src="https://img.shields.io/github/forks/CrimzBots/MoviesBot?label=%F0%9F%8D%B4Forks&logoColor=blue&style=social"> <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/CrimzBots/MoviesBot?label=%E2%AD%90%EF%B8%8FStars&logoColor=blue&style=social"></p>
 
 <hr>
+
+### ♻️ Features
+🔹AutoFilter 
+🔹Manual Filters 
+🔹Song/Video Download From yt 
+🔹Inline Search
+🔹Fun
+🔹Telegraph Upload (5mb)
+🔹Purge 
+🔹Yt Thumbnail 
+🔹Covid News 
+🔹Url-Short
+🔹G-Translate 
+🔹File Store 📁
+🔹Greetings
+🔹Notes
+🔹Lock
+🔹IMG Edit 
+🔹IP Address Finder
+🔹Information 
+🔹Tex To Image 
+🔹Stylish Fonts
+🔹Stickers Id 
