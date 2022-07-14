@@ -66,3 +66,8 @@ CAPTION: {file_caption}
 * `PUBLIC_FILE_STORE`: Use **False** if you don't want your bot to be used as a filestore bot by others.
 * `IMDB_TEMPLATE`: To customise IMDb Data. See code from **[Here](https://github.com/KoshikKumar17/My-EditeD-EvA/blob/V2.0/plugins/pm_filter.py#L1002) to [Here](https://github.com/KoshikKumar17/My-EditeD-EvA/blob/V2.0/plugins/pm_filter.py#L1029)** To know about available keys and Follow below example.
 * `HEROKU_API_KEY`: If you want to check your heroku account's dyno status directly from Bot.
+
+### 📤 Deploy
+<p><a href="https://heroku.com/deploy?template=https://github.com/CrimzBots/MoviesBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
+
+<hr>
