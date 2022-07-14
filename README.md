@@ -61,9 +61,6 @@ CAPTION: {file_caption}
 ```
 * `AUTH_CHANNEL`: To enable force subscribe. Delete this var if you do not need force subscribe.
 * `UPSTREAM_REPO`: If you want to use a customized fork of [Movies Bot](https://github.com/CrimzBots/MovieBot), You can fill this config with github url of your fork.
-* `BATCH_FILE_CAPTION`: Same as `CUSTOM_FILE_CAPTION` , use in case you want separate captions for batch files.
-* `PROTECT_CONTENT`: **Use True / False** . If set to true files from bot cannot be forwarded to any chat.
-* `PUBLIC_FILE_STORE`: Use **False** if you don't want your bot to be used as a filestore bot by others.
 * `IMDB_TEMPLATE`: To customise IMDb Data. See code from **[Here](https://github.com/KoshikKumar17/My-EditeD-EvA/blob/V2.0/plugins/pm_filter.py#L1002) to [Here](https://github.com/KoshikKumar17/My-EditeD-EvA/blob/V2.0/plugins/pm_filter.py#L1029)** To know about available keys and Follow below example.
 * `HEROKU_API_KEY`: If you want to check your heroku account's dyno status directly from Bot.
 
