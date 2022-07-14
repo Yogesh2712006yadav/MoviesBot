@@ -76,3 +76,10 @@ CAPTION: {file_caption}
 [![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/Crimz_Bots) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/Crimz_Support)
 
 <hr>
+### ⭐ Credits
+* [CrimzBots](https://t.me/Crimz_Bots)
+* [Liku Cs](https://t.me/iAmLiKu1)
+ [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+ - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
+ - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
+ - Thanks to [SpEcHiDe](https://t.me/SpEcHlDe) for Inspiration
