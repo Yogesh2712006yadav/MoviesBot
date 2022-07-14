@@ -70,6 +70,8 @@ To Customise Developer Name , Support Channel And Update Channel .
 #### Steps -
 * Fork This Repo . 
 * Go To Code **[Here](https://github.com/CrimzBots/MoviesBot/blob/edc2beed0e7d110d57d0052957df4ef90bc4b027/plugins/pm_filter.py#L736)**
+* Replace iAmLiKu1,Crimz_Bots & Crimz_Support To Your Wish Channel And Username 
+* If u Dont Know How Edit Codes Then Leave It
 
 ### 📤 Deploy
 <p><a href="https://heroku.com/deploy?template=https://github.com/CrimzBots/MoviesBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
