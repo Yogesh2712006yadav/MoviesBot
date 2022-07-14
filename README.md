@@ -60,7 +60,7 @@ Size : <i>{file_size}</i>
 CAPTION: {file_caption}
 ```
 * `AUTH_CHANNEL`: To enable force subscribe. Delete this var if you do not need force subscribe.
-* `UPSTREAM_REPO`: If you want to use a customized fork of [My-EditeD-EvA](https://github.com/CrimzBots/MovieBot), You can fill this config with github url of your fork.
+* `UPSTREAM_REPO`: If you want to use a customized fork of [Movies Bot](https://github.com/CrimzBots/MovieBot), You can fill this config with github url of your fork.
 * `BATCH_FILE_CAPTION`: Same as `CUSTOM_FILE_CAPTION` , use in case you want separate captions for batch files.
 * `PROTECT_CONTENT`: **Use True / False** . If set to true files from bot cannot be forwarded to any chat.
 * `PUBLIC_FILE_STORE`: Use **False** if you don't want your bot to be used as a filestore bot by others.
