@@ -71,3 +71,8 @@ CAPTION: {file_caption}
 <p><a href="https://heroku.com/deploy?template=https://github.com/CrimzBots/MoviesBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 <hr>
+
+### 👤 Contact Me
+[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/Crimz_Bots) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/Crimz_Support)
+
+<hr>
