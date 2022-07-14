@@ -734,9 +734,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ʜᴇʀᴇ🔎', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/iAmLiKu1'),
-            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/+2sQ2BQEEAlhlMjUx')
+            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/Crimz_Support')
             ],[
-            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/cs_cloud'),
+            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/Crimz_Bots'),
             ],[
             InlineKeyboardButton('✗ sᴛᴏᴘ Mᴇ 😴', callback_data='close_data')
         ]]
