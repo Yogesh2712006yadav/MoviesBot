@@ -76,7 +76,8 @@ CAPTION: {file_caption}
 [![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/Crimz_Bots) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/Crimz_Support)
 
 <hr>
+
 ### ⭐ Credits
-*[CrimzBots](https://t.me/Crimz_Bots)
-*[Liku Cs](https://t.me/iAmLiKu1)
+* [CrimzBots](https://t.me/Crimz_Bots)
+* [Liku Cs](https://t.me/iAmLiKu1)
 
