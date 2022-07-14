@@ -12,7 +12,7 @@ class script(object):
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://github.com/pyrogram/pyrogram'>ᴘʏʀᴏɢʀᴀᴍ</a>
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href='http://heroku.com/'>ʜᴇʀᴏᴋᴜ</a>
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Crimz_Bots'>Cʀɪᴍᴢ Bᴏᴛs</a>
-💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://t.me/Crimz_Bots'>ᴄʀɪᴍᴢ ʙᴏᴛs</a>
+💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://github.com/CrimzBots/MoviesBot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/Crimz_Support'>ᴄʀɪᴍᴢ sᴜᴘᴘᴏʀᴛ</a>
 📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/ᴄʀɪᴍᴢ ʙᴏᴛs'>ᴍᴄ ᴄʟᴜʙ</a>
 \n\n🔖 𝑸𝒖𝒐𝒕𝒆 : <code>plz bro credit de dena</code></b>"""
@@ -68,14 +68,14 @@ Don't Worry Send /shazam"""
  Tʜᴇɴ Mᴀʟʟᴜ Aᴜɴᴛʏ Wɪʟʟ Tᴇxᴛ Yᴏᴜ Sᴏᴍᴇ Jᴏᴋᴇs 😂😂 """
 
     ABOUTME_TXT = """
-<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href='https://t.me/mcmoviesData2_Bot'>Lᴇᴠɪ.</a>
+<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href=https://t.me/{}>{}</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/'>ᴘʏᴛʜᴏɴ</a>
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://github.com/pyrogram/pyrogram'>ᴘʏʀᴏɢʀᴀᴍ</a>
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href='http://heroku.com/'>ʜᴇʀᴏᴋᴜ</a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/iAmLiKu1'>ᴄs ʟɪᴋᴜ ❥︎</a>
-💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://t.me/cs_cloud'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/+oMiWi94WoAQ0MmY5'>Mᴏᴠɪᴇs ᴄʟᴜʙ</a>
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/+qdq5ZO_xDytkYzJl'>ᴍᴄ ᴄʟᴜʙ</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Crimz_Bots'>Cʀɪᴍᴢ Bᴏᴛs</a>
+💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://github.com/CrimzBots/MoviesBot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/Crimz_Support'>ᴄʀɪᴍᴢ sᴜᴘᴘᴏʀᴛ</a>
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/ᴄʀɪᴍᴢ ʙᴏᴛs'>ᴍᴄ ᴄʟᴜʙ</a>
 \n\n🔖 𝑸𝒖𝒐𝒕𝒆 : <code>plz bro credit de dena</code></b>"""    
     NEXT_TXT = """Welcome To My Second Help Module"""
 
