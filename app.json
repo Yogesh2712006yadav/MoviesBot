@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://t.me/abhisheksvlog",
-    "repository": "https://github.com/CrimzBots/MoviesBot",
+    "website": "https://t.me/imDeViL01",
+    "repository": "https://github.com/yogesh2712006yadav/MoviesBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
