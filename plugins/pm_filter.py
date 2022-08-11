@@ -167,8 +167,8 @@ async def next_page(bot, query):
             )
     btn.insert(0,
             [
-                InlineKeyboardButton("🔘 Group", url="https://t.me/+nam0eRztrW84ZGM1"),
-                InlineKeyboardButton("Dev 🔘", url="https://t.me/iAmLiKu1")
+                InlineKeyboardButton("🔘 Group", url="https://t.me/imDeViL01"),
+                InlineKeyboardButton("Dev 🔘", url="https://t.me/imDeViL01")
             ])
 
     btn.insert(0, [
@@ -207,7 +207,7 @@ async def advantage_spoll_choker(bot, query):
         else:
             k = await query.message.edit('👋 𝙷𝙸, 𝚂𝙾𝚁𝚁𝚈 🤕 𝚃𝙷𝙸𝚂 𝙼𝙾𝚅𝙸𝙴 I𝚂 𝙽𝙾𝚃 𝚈𝙴𝚃 𝚁𝙴𝙻𝙴𝙰𝚂𝙴𝙳 𝙾𝚁 𝙰𝙳𝙳𝙴𝙳 𝚃𝙾 𝙳𝙰𝚃𝚂𝙱𝙰𝚂𝙴 💌')
             button = [
-                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/Crimz_Support')
+                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/movies_4_u_official')
               ]
             await asyncio.sleep(10)
             await k.delete()
@@ -423,11 +423,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{files.file_name}"
         buttons = [
         [
-            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/+2sQ2BQEEAlhlMjUx'),
-            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/iAmLiKu1')
+            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/movies_4_u_official'),
+            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/imDeViL01')
         ],
         [
-            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/+tkAjvYxAr7VmZjY1')
+            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/movies_4_u_official')
         ]
         ]
 
@@ -476,11 +476,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{title}"
         buttons = [
         [
-            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/+2sQ2BQEEAlhlMjUx'),
-            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/iAmLiKu1')
+            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/movies_4_u_official'),
+            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/imDeViL01')
         ],
         [
-            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/+tkAjvYxAr7VmZjY1')
+            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/movies_4_u_official')
         ]
         ]
         await query.answer()
@@ -733,10 +733,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ʜᴇʀᴇ🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/iAmLiKu1'),
-            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/Crimz_Support')
+            InlineKeyboardButton('👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/imDeViL01'),
+            InlineKeyboardButton('👥 Gʀᴏᴜᴘ', url='https://t.me/movies:4_u_official')
             ],[
-            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/Crimz_Bots'),
+            InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 📣', url='https://t.me/movies_4_u_official'),
             ],[
             InlineKeyboardButton('✗ sᴛᴏᴘ Mᴇ 😴', callback_data='close_data')
         ]]
@@ -2434,14 +2434,14 @@ async def auto_filter(client, msg, spoll=False):
              InlineKeyboardButton(text="ɴᴇxᴛ ☞︎︎︎", callback_data=f"next_{req}_{key}_{offset}")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🌐 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 🌐",url="https://t.me/+tkAjvYxAr7VmZjY1")]
+            [InlineKeyboardButton(text="🌐 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 🌐",url="https://t.me/movies_4_u_official")]
         )
     else:
         btn.append(
             [InlineKeyboardButton(text="💠 1/1", callback_data="pages")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🌐 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 🌐",url="https://t.me/+tkAjvYxAr7VmZjY1")]
+            [InlineKeyboardButton(text="🌐 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 🌐",url="https://t.me/movies_4_u_official")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
